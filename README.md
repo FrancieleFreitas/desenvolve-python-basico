@@ -1,3 +1,3 @@
-Projeto desenvolve - Bom Despacho
-Programação básica com Python
-PDBD199
+## Disciplina: Progamação básica com Python
+**Projeto Desenvolve - Bom Despacho**
+**Matrícula:** PDBD199
