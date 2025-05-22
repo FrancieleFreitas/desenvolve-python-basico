@@ -6,7 +6,7 @@ emojis_disponiveis = {
     ":red_heart:": "❤",
     ":thumbs_up:": "👍",
     ":thinking_face:": "🤔",
-    ":partyng_face:": "🥳"
+    ":partying_face:": "🥳"
  }
 
 # mostraa os emojis disponíveis pro usuário
